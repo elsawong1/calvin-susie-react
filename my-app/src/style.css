@@ -1,0 +1,49 @@
+body {
+  background-color: #c8d8eb;
+  font-family: "Montserrat", "Roboto+Mono";
+  font-size: 12px;
+}
+Nav{
+  background-color: #c8d8eb;
+  font-size: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#form{
+  font-size: 10px;
+  color: red;
+  text-align: center;
+
+}
+
+.grad-background {
+  background: url('mainimage.webp') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  color: white;
+
+}
+h1{
+  text-align: center;
+  padding-top: 100px;
+}
+#calvin{
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 0.15em;
+
+}
+input{
+  background-color: #c8d8eb;
+}
+#icons{
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+
+#email{
+  display: flex;
+  justify-content: center;
+}
